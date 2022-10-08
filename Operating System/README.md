@@ -22,3 +22,14 @@ vi. Fork()
 4. User mode and kernel mode
 5. Process vs threads in operating system
 6. User level threads vs kernel level threads
+
+#Topic Covered:
+
+1. Process Scheduling algorithm
+   preemptive and non preemptive
+   i.Fcfs
+  ii.sjf
+ iii.Round Robin
+2. Cpu Scheduling
+3. Multilevel queue scheduling
+4. Multilevel feedback queue scheduling
